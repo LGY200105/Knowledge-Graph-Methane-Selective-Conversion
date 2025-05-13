@@ -11,5 +11,8 @@ pip install scikit-learn pandas neo4j numpy python-dotenv openai torch openpyxl
 cuda is necessary.
 
 The runtime environment for this code is packaged as an environment.tar.gz file. 
+As the file is large, it is shared in the form of a cloud disk：
+https://pan.baidu.com/s/1i0XIG7rxozB6Vhuk29pR2g password: 1234 
+
 Additionally, retrain_set.csv is the retraining dataset used to obtain the results presented in the article, you will need to replace this with your own dataset. 
 You also need to configure the relevant keys in the KEY.env file.
